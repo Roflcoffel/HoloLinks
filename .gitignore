@@ -5,6 +5,9 @@
 ### Youtube API Key ###
 API_KEY
 
+### Holovideo ###
+_data/holovideo.json
+
 ### Jekyll ###
 _site/
 .sass-cache/
