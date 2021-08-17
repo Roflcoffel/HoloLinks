@@ -1,4 +1,44 @@
 [
+  	{
+		"name":"Tsukumo Sana",
+		"region":"en",
+		"youtube_url":"UCsUj0dszADCGbF3gNrQEuSQ",
+		"twitch_url":"",
+		"image_path":"assets/images/sana.png",
+		"gen":"2"
+	},
+	{
+		"name":"Ceres Fauna",
+		"region":"en",
+		"youtube_url":"UCO_aKKYxn4tvrqPjcTzZ6EQ",
+		"twitch_url":"",
+		"image_path":"assets/images/ceres.png",
+		"gen":"2"
+	},
+	{
+		"name":"Ouro Kronii",
+		"region":"en",
+		"youtube_url":"UCmbs8T6MWqUHP1tIQvSgKrg",
+		"twitch_url":"",
+		"image_path":"assets/images/kronii.png",
+		"gen":"2"
+	},
+	{
+		"name":"Nanashi Mumei",
+		"region":"en",
+		"youtube_url":"UC3n5uGu18FoCy23ggWWp8tA",
+		"twitch_url":"",
+		"image_path":"assets/images/mumei.png",
+		"gen":"2"
+	},
+	{
+		"name":"Hakos Baelz",
+		"region":"en",
+		"youtube_url":"UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+		"twitch_url":"",
+		"image_path":"assets/images/hakos.png",
+		"gen":"2"
+	},
 	{
 	   "name":"Pavolia Reine",
 	   "region":"id",
