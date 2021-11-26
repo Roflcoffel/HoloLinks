@@ -390,5 +390,45 @@
 		"twitch_url": "",
 		"image_path":"assets/images/irys.webp",
 		"gen":"2"
- 	} 
+ 	},
+ 	{
+ 		"name":"Takane Rui",
+ 		"region":"jp",
+ 		"youtube_url":"UCs9_O1tRPMQTHQ-N_L6FU2g",
+ 		"twitch_url": "",
+ 		"image_path":"assets/images/rui.webp",
+ 		"gen":"6"
+ 	},
+ 	{
+ 		"name":"Laplus Darkness",
+ 		"region":"jp",
+ 		"youtube_url":"UCENwRMx5Yh42zWpzURebzTw",
+ 		"twitch_url":"",
+ 		"image_path":"assets/images/lapurasu.webp",
+ 		"gen":"6"
+ 	},
+ 	{
+ 		"name":"Hakui Koyori",
+ 		"region":"jp",
+ 		"youtube_url":"UC6eWCld0KwmyHFbAqK3V-Rw",
+ 		"twitch_url":"",
+ 		"image_path":"assets/images/koyori.webp",
+ 		"gen":"6"
+ 	},
+ 	{
+ 		"name":"Sakamata Chloe",
+ 		"region":"jp",
+ 		"youtube_url":"UCIBY1ollUsauvVi4hW4cumw",
+ 		"twitch_url":"",
+ 		"image_path":"assets/images/koyori.webp",
+ 		"gen":"6"
+ 	},
+ 	{
+ 		"name":"Kazama Iroha",
+ 		"region":"jp",
+ 		"youtube_url":"UC_vMYWcDjmfdpH6r4TTn1MQ",
+ 		"twitch_url":"",
+ 		"image_path":"assets/images/iroha.webp",
+ 		"gen":"6"
+ 	}
 ]

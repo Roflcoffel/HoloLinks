@@ -27,7 +27,7 @@ See if github pages has the ability to run scripts.
 [Install](https://jekyllrb.com/docs/installation/) ruby and gem.
 install projects gem dependencies with bundler
 
-	gem install bundler
+	gem install jekyll bundler
 	bundle install
 
 jekyll should now be installed to build run:
