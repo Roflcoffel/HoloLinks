@@ -396,7 +396,7 @@
  		"region":"jp",
  		"youtube_url":"UCs9_O1tRPMQTHQ-N_L6FU2g",
  		"twitch_url": "",
- 		"image_path":"assets/images/rui.webp",
+ 		"image_path":"assets/images/rui.png",
  		"gen":"6"
  	},
  	{
@@ -404,7 +404,7 @@
  		"region":"jp",
  		"youtube_url":"UCENwRMx5Yh42zWpzURebzTw",
  		"twitch_url":"",
- 		"image_path":"assets/images/lapurasu.webp",
+ 		"image_path":"assets/images/lapurasu.png",
  		"gen":"6"
  	},
  	{
@@ -412,7 +412,7 @@
  		"region":"jp",
  		"youtube_url":"UC6eWCld0KwmyHFbAqK3V-Rw",
  		"twitch_url":"",
- 		"image_path":"assets/images/koyori.webp",
+ 		"image_path":"assets/images/koyori.png",
  		"gen":"6"
  	},
  	{
@@ -420,7 +420,7 @@
  		"region":"jp",
  		"youtube_url":"UCIBY1ollUsauvVi4hW4cumw",
  		"twitch_url":"",
- 		"image_path":"assets/images/koyori.webp",
+ 		"image_path":"assets/images/chloe.png",
  		"gen":"6"
  	},
  	{
@@ -428,7 +428,31 @@
  		"region":"jp",
  		"youtube_url":"UC_vMYWcDjmfdpH6r4TTn1MQ",
  		"twitch_url":"",
- 		"image_path":"assets/images/iroha.webp",
+ 		"image_path":"assets/images/iroha.png",
  		"gen":"6"
- 	}
+ 	},
+	{
+		"name":"Vestia Zeta",
+		"region":"id",
+		"youtube_url":"UCTvHWSfBZgtxE4sILOaurIQ",
+		"twitch_url":"",
+		"image_path":"assets/images/zeta.png",
+		"gen":"3"
+	},
+	{
+		"name":"Kaela Kovalskia",
+		"region":"id",
+		"youtube_url":"UCZLZ8Jjx_RN2CXloOmgTHVg",
+		"twitch_url":"",
+		"image_path":"assets/images/kaela.png",
+		"gen":"3"
+	},
+	{
+		"name":"Kobo Kanaeru",
+		"region":"id",
+		"youtube_url":"UCjLEmnpCNeisMxy134KPwWw",
+		"twitch_url":"",
+		"image_path":"assets/images/kobo.png",
+		"gen":"3"
+	}
 ]
