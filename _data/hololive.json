@@ -2,7 +2,6 @@
     {
         "name": "Tokino Sora",
         "region": "jp",
-        "youtube_url": "@TokinoSora",
         "twitch_url": "",
         "image_path": "assets/images/sora_jp.jpg",
         "gen": "0"
@@ -10,7 +9,6 @@
     {
         "name": "AZKi",
         "region": "jp",
-        "youtube_url": "@AZKi",
         "twitch_url": "",
         "image_path": "assets/images/azki.jpg",
         "gen": "0"
@@ -18,7 +16,6 @@
     {
         "name": "Hoshimachi Suisei",
         "region": "jp",
-        "youtube_url": "@HoshimachiSuisei",
         "twitch_url": "",
         "image_path": "assets/images/suisei_jp.jpg",
         "gen": "0"
@@ -26,7 +23,6 @@
     {
         "name": "Roboco San",
         "region": "jp",
-        "youtube_url": "@Roboco",
         "twitch_url": "",
         "image_path": "assets/images/roboco_jp.jpg",
         "gen": "0"
@@ -34,7 +30,6 @@
     {
         "name": "Sakura Miko",
         "region": "jp",
-        "youtube_url": "@SakuraMiko",
         "twitch_url": "https://www.twitch.tv/sakuramiko_hololive",
         "image_path": "assets/images/miko_jp.jpg",
         "gen": "0"
@@ -42,7 +37,6 @@
     {
         "name": "Gawr Gura",
         "region": "en",
-        "youtube_url": "@GwarGura",
         "twitch_url": "",
         "image_path": "assets/images/gawr_gura_en.jpg",
         "gen": "1"
@@ -50,7 +44,6 @@
     {
         "name": "Yozora Mel",
         "region": "jp",
-        "youtube_url": "@YozoraMel",
         "twitch_url": "",
         "image_path": "assets/images/mel_jp.jpg",
         "gen": "1"
@@ -58,7 +51,6 @@
     {
         "name": "Moona Hoshinova",
         "region": "id",
-        "youtube_url": "@MoonaHoshinova",
         "twitch_url": "",
         "image_path": "assets/images/moona_hoshinova_id.jpg",
         "gen": "1"
@@ -66,7 +58,6 @@
     {
         "name": "Akai Haato",
         "region": "jp",
-        "youtube_url": "@AkaiHaato",
         "twitch_url": "",
         "image_path": "assets/images/haachama_jp.jpg",
         "gen": "1"
@@ -74,7 +65,6 @@
     {
         "name": "Mori Calliope",
         "region": "en",
-        "youtube_url": "@MoriCalliope",
         "twitch_url": "",
         "image_path": "assets/images/mori_calliope_en.jpg",
         "gen": "1"
@@ -82,7 +72,6 @@
     {
         "name": "Natsuiro Matsuri",
         "region": "jp",
-        "youtube_url": "@NatsuiroMatsuri",
         "twitch_url": "",
         "image_path": "assets/images/matsuri_jp.jpg",
         "gen": "1"
@@ -90,7 +79,6 @@
     {
         "name": "Watson Amelia",
         "region": "en",
-        "youtube_url": "@WatsonAmelia",
         "twitch_url": "",
         "image_path": "assets/images/watson_amelia_en.jpg",
         "gen": "1"
@@ -98,7 +86,6 @@
     {
         "name": "Takanashi Kiara",
         "region": "en",
-        "youtube_url": "@TakanashiKiara",
         "twitch_url": "",
         "image_path": "assets/images/takanashi_kiara_en.jpg",
         "gen": "1"
@@ -106,7 +93,6 @@
     {
         "name": "Aki Rosenthal",
         "region": "jp",
-        "youtube_url": "UCFTLzh12_nrtzqBPsTCqenA",
         "twitch_url": "",
         "image_path": "assets/images/aki_jp.jpg",
         "gen": "1"
@@ -114,7 +100,6 @@
     {
         "name": "Ninomae Ina'nis",
         "region": "en",
-        "youtube_url": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "twitch_url": "",
         "image_path": "assets/images/ninomae_inanis_en.jpg",
         "gen": "1"
@@ -122,7 +107,6 @@
     {
         "name": "Ayunda Risu",
         "region": "id",
-        "youtube_url": "UCOyYb1c43VlX9rc_lT6NKQw",
         "twitch_url": "",
         "image_path": "assets/images/ayunda_risu_id.jpg",
         "gen": "1"
@@ -130,7 +114,6 @@
     {
         "name": "Airani Iofifteen",
         "region": "id",
-        "youtube_url": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "twitch_url": "",
         "image_path": "assets/images/airani_iofifteen_id.jpg",
         "gen": "1"
@@ -138,7 +121,6 @@
     {
         "name": "Tsukumo Sana",
         "region": "en",
-        "youtube_url": "UCsUj0dszADCGbF3gNrQEuSQ",
         "twitch_url": "",
         "image_path": "assets/images/sana.png",
         "gen": "2"
@@ -146,7 +128,6 @@
     {
         "name": "Ceres Fauna",
         "region": "en",
-        "youtube_url": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "twitch_url": "",
         "image_path": "assets/images/ceres.png",
         "gen": "2"
@@ -154,7 +135,6 @@
     {
         "name": "Ouro Kronii",
         "region": "en",
-        "youtube_url": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "twitch_url": "",
         "image_path": "assets/images/kronii.png",
         "gen": "2"
@@ -162,7 +142,6 @@
     {
         "name": "Nanashi Mumei",
         "region": "en",
-        "youtube_url": "UC3n5uGu18FoCy23ggWWp8tA",
         "twitch_url": "",
         "image_path": "assets/images/mumei.png",
         "gen": "2"
@@ -170,7 +149,6 @@
     {
         "name": "Hakos Baelz",
         "region": "en",
-        "youtube_url": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "twitch_url": "",
         "image_path": "assets/images/hakos.png",
         "gen": "2"
@@ -178,7 +156,6 @@
     {
         "name": "Shiori Novella",
         "region": "en",
-        "youtube_url": "@ShioriNovella",
         "twitch_url": "",
         "image_path": "assets/images/novella.png",
         "gen": "3"
@@ -186,7 +163,6 @@
     {
         "name": "Koseki Bijou",
         "region": "en",
-        "youtube_url": "@KosekiBijou",
         "twitch_url": "",
         "image_path": "assets/images/bijou.png",
         "gen": "3"
@@ -194,7 +170,6 @@
     {
         "name": "Nerissa Ravencroft",
         "region": "en",
-        "youtube_url": "@NerissaRavencroft",
         "twitch_url": "",
         "image_path": "assets/images/ravencroft.png",
         "gen": "3"
@@ -202,7 +177,6 @@
     {
         "name": "FUWAMOCOch",
         "region": "en",
-        "youtube_url": "@FUWAMOCOch",
         "twitch_url": "",
         "image_path": "assets/images/fuwamoco.jpg",
         "gen": "3"
@@ -210,7 +184,6 @@
     {
         "name": "Kureiji Ollie",
         "region": "id",
-        "youtube_url": "UCYz_5n-uDuChHtLo7My1HnQ",
         "twitch_url": "",
         "image_path": "assets/images/kureiji_ollie_id.jpg",
         "gen": "2"
@@ -218,7 +191,6 @@
     {
         "name": "Nakiri Ayame",
         "region": "jp",
-        "youtube_url": "UC7fk0CB07ly8oSl0aqKkqFg",
         "twitch_url": "",
         "image_path": "assets/images/nakiri_jp.jpg",
         "gen": "2"
@@ -226,7 +198,6 @@
     {
         "name": "Yuzuki Choco",
         "region": "jp",
-        "youtube_url": "UC1suqwovbL1kzsoaZgFZLKg",
         "twitch_url": "",
         "image_path": "assets/images/choco_jp.jpg",
         "gen": "2"
@@ -234,7 +205,6 @@
     {
         "name": "Minato Aqua",
         "region": "jp",
-        "youtube_url": "UC1opHUrw8rvnsadT-iGp7Cg",
         "twitch_url": "",
         "image_path": "assets/images/aqua_jp.jpg",
         "gen": "2"
@@ -242,7 +212,6 @@
     {
         "name": "Murasaki Shion",
         "region": "jp",
-        "youtube_url": "UCXTpFs_3PqI41qX2d9tL2Rw",
         "twitch_url": "",
         "image_path": "assets/images/shion_jp.jpg",
         "gen": "2"
@@ -250,7 +219,6 @@
     {
         "name": "Anya Melfissa",
         "region": "id",
-        "youtube_url": "UC727SQYUvx5pDDGQpTICNWg",
         "twitch_url": "",
         "image_path": "assets/images/anya_melfissa_id.jpg",
         "gen": "2"
@@ -258,7 +226,6 @@
     {
         "name": "Oozora Subaru",
         "region": "jp",
-        "youtube_url": "UCvzGlP9oQwU--Y0r9id_jnA",
         "twitch_url": "",
         "image_path": "assets/images/subaru_jp.jpg",
         "gen": "2"
@@ -266,7 +233,6 @@
     {
         "name": "IRyS",
         "region": "en",
-        "youtube_url": "UC8rcEBzJSleTkf_-agPM20g",
         "twitch_url": "",
         "image_path": "assets/images/irys.webp",
         "gen": "2"
@@ -274,7 +240,6 @@
     {
         "name": "Pavolia Reine",
         "region": "id",
-        "youtube_url": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "twitch_url": "",
         "image_path": "assets/images/pavolia_reine_id.jpg",
         "gen": "2"
@@ -282,7 +247,6 @@
     {
         "name": "Inugami Korone",
         "region": "jp",
-        "youtube_url": "UChAnqc_AY5_I3Px5dig3X1Q",
         "twitch_url": "",
         "image_path": "assets/images/korone_jp.jpg",
         "gen": "Gamer"
@@ -290,7 +254,6 @@
     {
         "name": "Nekomata Okayu",
         "region": "jp",
-        "youtube_url": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "twitch_url": "",
         "image_path": "assets/images/okayu_jp.jpg",
         "gen": "Gamer"
@@ -298,7 +261,6 @@
     {
         "name": "Ookami Mio",
         "region": "jp",
-        "youtube_url": "UCp-5t9SrOQwXMU7iIjQfARg",
         "twitch_url": "",
         "image_path": "assets/images/mio_jp.jpg",
         "gen": "Gamer"
@@ -306,7 +268,6 @@
     {
         "name": "Shirakami Fubuki",
         "region": "jp",
-        "youtube_url": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "twitch_url": "",
         "image_path": "assets/images/fubuki_jp.jpg",
         "gen": "Gamer"
@@ -314,7 +275,6 @@
     {
         "name": "Houshou Marine",
         "region": "jp",
-        "youtube_url": "UCCzUftO8KOVkV4wQG1vkUvg",
         "twitch_url": "",
         "image_path": "assets/images/marine_jp.jpg",
         "gen": "3"
@@ -322,7 +282,6 @@
     {
         "name": "Shirogane Noel",
         "region": "jp",
-        "youtube_url": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "twitch_url": "",
         "image_path": "assets/images/noel_jp.jpg",
         "gen": "3"
@@ -330,7 +289,6 @@
     {
         "name": "Shiranui Flare",
         "region": "jp",
-        "youtube_url": "UCvInZx9h3jC2JzsIzoOebWg",
         "twitch_url": "",
         "image_path": "assets/images/flare_jp.jpg",
         "gen": "3"
@@ -338,7 +296,6 @@
     {
         "name": "Uruha Rushia",
         "region": "jp",
-        "youtube_url": "UCl_gCybOJRIgOXw6Qb4qJzQ",
         "twitch_url": "",
         "image_path": "assets/images/rushia_jp.jpg",
         "gen": "3"
@@ -346,7 +303,6 @@
     {
         "name": "Usada Pekora",
         "region": "jp",
-        "youtube_url": "UC1DCedRgGHBdm81E1llLhOQ",
         "twitch_url": "usadapekora_hololive",
         "image_path": "assets/images/pekora_jp.jpg",
         "gen": "3"
@@ -354,7 +310,6 @@
     {
         "name": "Vestia Zeta",
         "region": "id",
-        "youtube_url": "UCTvHWSfBZgtxE4sILOaurIQ",
         "twitch_url": "",
         "image_path": "assets/images/zeta.png",
         "gen": "3"
@@ -362,7 +317,6 @@
     {
         "name": "Kaela Kovalskia",
         "region": "id",
-        "youtube_url": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "twitch_url": "",
         "image_path": "assets/images/kaela.png",
         "gen": "3"
@@ -370,7 +324,6 @@
     {
         "name": "Kobo Kanaeru",
         "region": "id",
-        "youtube_url": "UCjLEmnpCNeisMxy134KPwWw",
         "twitch_url": "",
         "image_path": "assets/images/kobo.png",
         "gen": "3"
@@ -378,7 +331,6 @@
     {
         "name": "Tokoyami Towa",
         "region": "jp",
-        "youtube_url": "UC1uv2Oq6kNxgATlCiez59hw",
         "twitch_url": "",
         "image_path": "assets/images/towa_jp.jpg",
         "gen": "4"
@@ -386,7 +338,6 @@
     {
         "name": "Kiryu Coco",
         "region": "jp",
-        "youtube_url": "UCS9uQI-jC3DE0L4IpXyvr6w",
         "twitch_url": "",
         "image_path": "assets/images/coco_jp.jpg",
         "gen": "4"
@@ -394,7 +345,6 @@
     {
         "name": "Himemori Luna",
         "region": "jp",
-        "youtube_url": "UCa9Y57gfeY0Zro_noHRVrnw",
         "twitch_url": "",
         "image_path": "assets/images/luna_jp.jpg",
         "gen": "4"
@@ -402,7 +352,6 @@
     {
         "name": "Amane Kanata",
         "region": "jp",
-        "youtube_url": "UCZlDXzGoo7d44bwdNObFacg",
         "twitch_url": "",
         "image_path": "assets/images/kanata_jp.jpg",
         "gen": "4"
@@ -410,7 +359,6 @@
     {
         "name": "Tsunomaki Watame",
         "region": "jp",
-        "youtube_url": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "twitch_url": "",
         "image_path": "assets/images/watame_jp.jpg",
         "gen": "4"
@@ -418,7 +366,6 @@
     {
         "name": "Momosuzu Nene",
         "region": "jp",
-        "youtube_url": "UCAWSyEs_Io8MtpY3m-zqILA",
         "twitch_url": "",
         "image_path": "assets/images/nene_jp.jpg",
         "gen": "5"
@@ -426,7 +373,6 @@
     {
         "name": "Shishiro Botan",
         "region": "jp",
-        "youtube_url": "UCUKD-uaobj9jiqB-VXt71mA",
         "twitch_url": "",
         "image_path": "assets/images/botan_jp.jpg",
         "gen": "5"
@@ -434,7 +380,6 @@
     {
         "name": "Yukihana Lamy",
         "region": "jp",
-        "youtube_url": "UCFKOVgVbGmX65RxO3EtH3iw",
         "twitch_url": "",
         "image_path": "assets/images/lamy_jp.jpg",
         "gen": "5"
@@ -442,7 +387,6 @@
     {
         "name": "Omaru Polka",
         "region": "jp",
-        "youtube_url": "UCK9V2B22uJYu3N7eR_BT9QA",
         "twitch_url": "",
         "image_path": "assets/images/polka_jp.jpg",
         "gen": "5"
@@ -450,7 +394,6 @@
     {
         "name": "Takane Rui",
         "region": "jp",
-        "youtube_url": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "twitch_url": "",
         "image_path": "assets/images/rui.png",
         "gen": "6"
@@ -458,7 +401,6 @@
     {
         "name": "Laplus Darkness",
         "region": "jp",
-        "youtube_url": "UCENwRMx5Yh42zWpzURebzTw",
         "twitch_url": "",
         "image_path": "assets/images/lapurasu.png",
         "gen": "6"
@@ -466,7 +408,6 @@
     {
         "name": "Hakui Koyori",
         "region": "jp",
-        "youtube_url": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "twitch_url": "",
         "image_path": "assets/images/koyori.png",
         "gen": "6"
@@ -474,7 +415,6 @@
     {
         "name": "Sakamata Chloe",
         "region": "jp",
-        "youtube_url": "UCIBY1ollUsauvVi4hW4cumw",
         "twitch_url": "",
         "image_path": "assets/images/chloe.png",
         "gen": "6"
@@ -482,7 +422,6 @@
     {
         "name": "Kazama Iroha",
         "region": "jp",
-        "youtube_url": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "twitch_url": "",
         "image_path": "assets/images/iroha.png",
         "gen": "6"
