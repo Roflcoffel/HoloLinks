@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Uruha Rushia",
+        "region": "jp",
+        "twitch_url": "",
+        "image_path": "assets/images/rushia_jp.jpg",
+        "gen": "3"
+    },
+    {
+        "name": "Tsukumo Sana",
+        "region": "en",
+        "twitch_url": "",
+        "image_path": "assets/images/sana.png",
+        "gen": "2"
+    },
+    {
+        "name": "Kiryu Coco",
+        "region": "jp",
+        "twitch_url": "",
+        "image_path": "assets/images/coco_jp.jpg",
+        "gen": "4"
+    }
+]

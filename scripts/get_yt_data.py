@@ -3,6 +3,14 @@ import requests
 import json
 import os, sys
 
+### NOTE ###
+# This script does not work with the current hololive.json
+# youtube changed the displayed url to @username, so I do not currently know
+# how to find the id, this script relies on the fact that channelId url can
+# be converted into a playlistitem by just changing a letter in the id, this
+# way we do not need to make so many requests.
+# the old channelIds can be found on github if you look at the changes and
+# want to update this file.
 HOLOLIVE_DATA_PATH = "../_data/hololive.json"
 OUPUT_PATH         = "../_data/holovideo.json"
 

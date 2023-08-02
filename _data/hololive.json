@@ -10,7 +10,7 @@
         "name": "AZKi",
         "region": "jp",
         "twitch_url": "",
-        "image_path": "assets/images/azki.jpg",
+        "image_path": "assets/images/azki_new.jpg",
         "gen": "0"
     },
     {
@@ -38,14 +38,14 @@
         "name": "Gawr Gura",
         "region": "en",
         "twitch_url": "",
-        "image_path": "assets/images/gawr_gura_en.jpg",
+        "image_path": "assets/images/gura_new.jpg",
         "gen": "1"
     },
     {
         "name": "Yozora Mel",
         "region": "jp",
         "twitch_url": "",
-        "image_path": "assets/images/mel_jp.jpg",
+        "image_path": "assets/images/mel_new.jpg",
         "gen": "1"
     },
     {
@@ -59,35 +59,35 @@
         "name": "Akai Haato",
         "region": "jp",
         "twitch_url": "",
-        "image_path": "assets/images/haachama_jp.jpg",
+        "image_path": "assets/images/hachama_new.jpg",
         "gen": "1"
     },
     {
         "name": "Mori Calliope",
         "region": "en",
         "twitch_url": "",
-        "image_path": "assets/images/mori_calliope_en.jpg",
+        "image_path": "assets/images/calli_new.jpg",
         "gen": "1"
     },
     {
         "name": "Natsuiro Matsuri",
         "region": "jp",
         "twitch_url": "",
-        "image_path": "assets/images/matsuri_jp.jpg",
+        "image_path": "assets/images/matsuri_new.jpg",
         "gen": "1"
     },
     {
         "name": "Watson Amelia",
         "region": "en",
         "twitch_url": "",
-        "image_path": "assets/images/watson_amelia_en.jpg",
+        "image_path": "assets/images/watson_new.jpg",
         "gen": "1"
     },
     {
         "name": "Takanashi Kiara",
         "region": "en",
         "twitch_url": "",
-        "image_path": "assets/images/takanashi_kiara_en.jpg",
+        "image_path": "assets/images/kiara_new.jpg",
         "gen": "1"
     },
     {
@@ -98,10 +98,10 @@
         "gen": "1"
     },
     {
-        "name": "Ninomae Ina'nis",
+        "name": "Ninomae Inanis",
         "region": "en",
         "twitch_url": "",
-        "image_path": "assets/images/ninomae_inanis_en.jpg",
+        "image_path": "assets/images/ina_new.jpg",
         "gen": "1"
     },
     {
@@ -119,38 +119,31 @@
         "gen": "1"
     },
     {
-        "name": "Tsukumo Sana",
-        "region": "en",
-        "twitch_url": "",
-        "image_path": "assets/images/sana.png",
-        "gen": "2"
-    },
-    {
         "name": "Ceres Fauna",
         "region": "en",
         "twitch_url": "",
-        "image_path": "assets/images/ceres.png",
+        "image_path": "assets/images/fauna_new.jpg",
         "gen": "2"
     },
     {
         "name": "Ouro Kronii",
         "region": "en",
         "twitch_url": "",
-        "image_path": "assets/images/kronii.png",
+        "image_path": "assets/images/kronii_new.jpg",
         "gen": "2"
     },
     {
         "name": "Nanashi Mumei",
         "region": "en",
         "twitch_url": "",
-        "image_path": "assets/images/mumei.png",
+        "image_path": "assets/images/mumei_new.jpg",
         "gen": "2"
     },
     {
         "name": "Hakos Baelz",
         "region": "en",
         "twitch_url": "",
-        "image_path": "assets/images/hakos.png",
+        "image_path": "assets/images/bae_new.jpg",
         "gen": "2"
     },
     {
@@ -234,7 +227,7 @@
         "name": "IRyS",
         "region": "en",
         "twitch_url": "",
-        "image_path": "assets/images/irys.webp",
+        "image_path": "assets/images/irys_new.jpg",
         "gen": "2"
     },
     {
@@ -269,7 +262,7 @@
         "name": "Shirakami Fubuki",
         "region": "jp",
         "twitch_url": "",
-        "image_path": "assets/images/fubuki_jp.jpg",
+        "image_path": "assets/images/fubuki_new.jpg",
         "gen": "Gamer"
     },
     {
@@ -291,13 +284,6 @@
         "region": "jp",
         "twitch_url": "",
         "image_path": "assets/images/flare_jp.jpg",
-        "gen": "3"
-    },
-    {
-        "name": "Uruha Rushia",
-        "region": "jp",
-        "twitch_url": "",
-        "image_path": "assets/images/rushia_jp.jpg",
         "gen": "3"
     },
     {
@@ -336,17 +322,10 @@
         "gen": "4"
     },
     {
-        "name": "Kiryu Coco",
-        "region": "jp",
-        "twitch_url": "",
-        "image_path": "assets/images/coco_jp.jpg",
-        "gen": "4"
-    },
-    {
         "name": "Himemori Luna",
         "region": "jp",
         "twitch_url": "",
-        "image_path": "assets/images/luna_jp.jpg",
+        "image_path": "assets/images/luna_new.jpg",
         "gen": "4"
     },
     {
@@ -360,14 +339,14 @@
         "name": "Tsunomaki Watame",
         "region": "jp",
         "twitch_url": "",
-        "image_path": "assets/images/watame_jp.jpg",
+        "image_path": "assets/images/watame_new.jpg",
         "gen": "4"
     },
     {
         "name": "Momosuzu Nene",
         "region": "jp",
         "twitch_url": "",
-        "image_path": "assets/images/nene_jp.jpg",
+        "image_path": "assets/images/nene_new.jpg",
         "gen": "5"
     },
     {
@@ -392,31 +371,31 @@
         "gen": "5"
     },
     {
-        "name": "Takane Rui",
+        "name": "Takane Lui",
         "region": "jp",
         "twitch_url": "",
-        "image_path": "assets/images/rui.png",
+        "image_path": "assets/images/lui_new.jpg",
         "gen": "6"
     },
     {
-        "name": "Laplus Darkness",
+        "name": "Laplus Darknesss",
         "region": "jp",
         "twitch_url": "",
-        "image_path": "assets/images/lapurasu.png",
+        "image_path": "assets/images/laplus_new.jpg",
         "gen": "6"
     },
     {
         "name": "Hakui Koyori",
         "region": "jp",
         "twitch_url": "",
-        "image_path": "assets/images/koyori.png",
+        "image_path": "assets/images/koyori_new.jpg",
         "gen": "6"
     },
     {
         "name": "Sakamata Chloe",
         "region": "jp",
         "twitch_url": "",
-        "image_path": "assets/images/chloe.png",
+        "image_path": "assets/images/chloe_new.jpg",
         "gen": "6"
     },
     {

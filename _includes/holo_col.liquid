@@ -8,7 +8,7 @@
 		{% endif %}
 
 		<div class="col center">
-			<img src="{{ holo.image_path }}" class='rounded-circle' alt='Hololive'>
+			<a href="https://www.youtube.com/@{{ holo.name | replace_first: " ", ""}}"><img src="{{ holo.image_path }}" class='rounded-circle' alt='Hololive'></a>
 			<a href="https://www.youtube.com/@{{ holo.name | replace_first: " ", ""}}"><h5 class='extra-margin'>{{ holo.name }}</h5></a>
 		</div>
 
