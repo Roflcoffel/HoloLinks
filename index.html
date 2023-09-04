@@ -5,24 +5,27 @@ title: HoloLinks
 <div class="container">
 	<h1>Hololive Channels</h1>
 
-	{% include navigation.html href="/video.html" name="Videos" %}
-
+	<nav class="nav justify-content-center">
+		{% include navigation.html href="/video.html" name="Hololive Videos" %}
+		{% include navigation.html href="/dev_is.html" name="DEV_IS" %}
+	</nav>
+	
 	<br />
 
 	<div id="hololive-jp">
 		<h2>Hololive JP</h2>
 		<hr />
-		{% include holo_col.liquid region="jp" %}
+		{% include holo_row.liquid region="jp" %}
 	</div>
 	<div id="hololive-en">
 		<h2>Hololive EN</h2>
 		<hr />
-		{% include holo_col.liquid region="en" %}	
+		{% include holo_row.liquid region="en" %}	
 	</div>
 	<div id="hololive-id">
 		<h2>Hololive ID</h2>
 		<hr />
-		{% include holo_col.liquid region="id" %}
+		{% include holo_row.liquid region="id" %}
 	</div>
 </div>
 
