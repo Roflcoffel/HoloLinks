@@ -1,0 +1,11 @@
+{% assign rows = site.data.hololive["jp"] | size | divided_by: 4 %}
+{% for i in (1..rows) %}
+	<div class="row">
+		{% for holo in site.data.hololive["jp"] limit: 5 offset: continue %}
+				<div class="col center">
+					<a href="https://www.youtube.com/@{{ holo.name | replace_first: " ", ""}}"><img src="{{ holo.image_path }}" class='rounded-circle' alt='Hololive'></a>
+					<a href="https://www.youtube.com/@{{ holo.name | replace_first: " ", ""}}"><h5 class='extra-margin'>{{ holo.name }}</h5></a>
+				</div>
+		{% endfor %}
+	</div>
+{% endfor %}

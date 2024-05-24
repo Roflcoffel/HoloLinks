@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Moona Hoshinova",
+        "twitch_url": "",
+        "image_path": "assets/images/moona_hoshinova_id.jpg",
+        "gen": "1"
+    },
+    {
+        "name": "Ayunda Risu",
+        "twitch_url": "",
+        "image_path": "assets/images/ayunda_risu_id.jpg",
+        "gen": "1"
+    },
+    {
+        "name": "Airani Iofifteen",
+        "twitch_url": "",
+        "image_path": "assets/images/airani_iofifteen_id.jpg",
+        "gen": "1"
+    },
+    {
+        "name": "Kureiji Ollie",
+        "twitch_url": "",
+        "image_path": "assets/images/kureiji_ollie_id.jpg",
+        "gen": "2"
+    },
+    {
+        "name": "Anya Melfissa",
+        "twitch_url": "",
+        "image_path": "assets/images/anya_melfissa_id.jpg",
+        "gen": "2"
+    },
+    {
+        "name": "Pavolia Reine",
+        "twitch_url": "",
+        "image_path": "assets/images/pavolia_reine_id.jpg",
+        "gen": "2"
+    },
+    {
+        "name": "Vestia Zeta",
+        "twitch_url": "",
+        "image_path": "assets/images/zeta.png",
+        "gen": "3"
+    },
+    {
+        "name": "Kaela Kovalskia",
+        "twitch_url": "",
+        "image_path": "assets/images/kaela.png",
+        "gen": "3"
+    },
+    {
+        "name": "Kobo Kanaeru",
+        "twitch_url": "",
+        "image_path": "assets/images/kobo.png",
+        "gen": "3"
+    }
+]

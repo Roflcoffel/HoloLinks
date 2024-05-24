@@ -1,35 +1,30 @@
 [
     {    
         "name": "Hiodoshi Ao",
-        "region": "jp",
         "twitch_url": "",
         "image_path": "assets/images/ao_jp.jpg",
         "gen": "7"
     },
     {    
         "name": "Todoroki Hajime",
-        "region": "jp",
         "twitch_url": "",
         "image_path": "assets/images/hajime_jp.jpg",
         "gen": "7"
     },
     {    
         "name": "Ichijou Ririka",
-        "region": "jp",
         "twitch_url": "",
         "image_path": "assets/images/ririka_jp.jpg",
         "gen": "7"
     },
     {    
         "name": "Juufuutei Raden",
-        "region": "jp",
         "twitch_url": "",
         "image_path": "assets/images/raden_jp.jpg",
         "gen": "7"
     },
     {    
         "name": "Otonose Kanade",
-        "region": "jp",
         "twitch_url": "",
         "image_path": "assets/images/kanade_jp.jpg",
         "gen": "7"

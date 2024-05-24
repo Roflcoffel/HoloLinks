@@ -19,5 +19,12 @@
         "twitch_url": "",
         "image_path": "assets/images/coco_jp.jpg",
         "gen": "4"
+    },
+    {
+        "name": "Yozora Mel",
+        "region": "jp",
+        "twitch_url": "",
+        "image_path": "assets/images/mel_new.jpg",
+        "gen": "1"
     }
 ]

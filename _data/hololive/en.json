@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Watson Amelia",
+        "twitch_url": "",
+        "image_path": "assets/images/watson_new.jpg",
+        "gen": "1"
+    },
+    {
+        "name": "IRyS",
+        "twitch_url": "",
+        "image_path": "assets/images/irys_new.jpg",
+        "gen": "2"
+    },
+    {
+        "name": "Takanashi Kiara",
+        "twitch_url": "",
+        "image_path": "assets/images/kiara_new.jpg",
+        "gen": "1"
+    },
+    {
+        "name": "Gawr Gura",
+        "twitch_url": "",
+        "image_path": "assets/images/gura_new.jpg",
+        "gen": "1"
+    },
+    {
+        "name": "Mori Calliope",
+        "twitch_url": "",
+        "image_path": "assets/images/calli_new.jpg",
+        "gen": "1"
+    },
+    {
+        "name": "Ninomae Inanis",
+        "twitch_url": "",
+        "image_path": "assets/images/ina_new.jpg",
+        "gen": "1"
+    },
+    {
+        "name": "Ceres Fauna",
+        "twitch_url": "",
+        "image_path": "assets/images/fauna_new.jpg",
+        "gen": "2"
+    },
+    {
+        "name": "Ouro Kronii",
+        "twitch_url": "",
+        "image_path": "assets/images/kronii_new.jpg",
+        "gen": "2"
+    },
+    {
+        "name": "Nanashi Mumei",
+        "twitch_url": "",
+        "image_path": "assets/images/mumei_new.jpg",
+        "gen": "2"
+    },
+    {
+        "name": "Hakos Baelz",
+        "twitch_url": "",
+        "image_path": "assets/images/bae_new.jpg",
+        "gen": "2"
+    },
+    {
+        "name": "Shiori Novella",
+        "twitch_url": "",
+        "image_path": "assets/images/novella.png",
+        "gen": "3"
+    },
+    {
+        "name": "Koseki Bijou",
+        "twitch_url": "",
+        "image_path": "assets/images/bijou.png",
+        "gen": "3"
+    },
+    {
+        "name": "Nerissa Ravencroft",
+        "twitch_url": "",
+        "image_path": "assets/images/ravencroft.png",
+        "gen": "3"
+    },
+    {
+        "name": "FUWAMOCOch",
+        "twitch_url": "",
+        "image_path": "assets/images/fuwamoco.jpg",
+        "gen": "3"
+    }
+]

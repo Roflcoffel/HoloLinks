@@ -6,21 +6,16 @@ A static site with links to holomembers channels, also shows the latest videos.
 
 TODO:
 1. Show who is live, and show the upcoming videos
-	- The youtube API does not make this easy...
-2. Add a nijisanji page or create a fork for with nijisanji.
-3. Activate github pages, and host it on github.
+2. Activate github pages, and host it on github,
+3. use a github action to update the latest video part.
 4. Create instructions for how to build and generate a local version.
 
 ---
 
-**get_yt_data.py** - currently gets the 3 latest videos.
+**get_yt_data.py** - a scripts that gets the 3 latest videos, uses the youtube api.
+need to rebuild the page after the script is run
 
-To regenerate the site when .json is updated we can use **entr** or do it in **get_yt_data.py**.
-See if github pages has the ability to run scripts.
-
-#### To Get Upcoming and Live status 
-- Get The data (Search.list) (Cost: 100)
-- Save it in a Object
+	bundle exec jekyll build
 
 ## Build
 
@@ -33,3 +28,17 @@ install projects gem dependencies with bundler
 jekyll should now be installed to build run:
 
 	bundle exec jekyll build
+
+## Memo
+To get live status, try to extract it from hololive schedule site.
+
+moved REGloss members to the main page, but currently keeping the html file
+if more members join the dev_is branch.
+
+each region has its own json file, but also liquid file, these are
+currently identical only change is which json file to loop through.
+
+but currently cannot get it to work with a variable for the region,
+I think the problem is how the "offset: continue" works, it seems to
+treat "site.data.hololive[region]" as one namespace even if the
+region variable changes.

@@ -1,25 +1,8 @@
-{% assign i = 0 %}
-{% for dev in site.data.dev_is %}
-	{% if dev.region == {{include.region}} %}
-		{% assign remainder = i | modulo: 5 %}
-
-		{% if remainder == 0 %}
-			<div class="row">
-		{% endif %}
-
+<div class="row">
+{% for dev in site.data.dev_is limit: 5 offset: continue %}
 		<div class="col center">
 			<a href="https://www.youtube.com/@{{ dev.name | replace_first: " ", ""}}"><img src="{{ dev.image_path }}" class='rounded-circle' alt='Hololive'></a>
 			<a href="https://www.youtube.com/@{{ dev.name | replace_first: " ", ""}}"><h5 class='extra-margin'>{{ dev.name }}</h5></a>
 		</div>
-
-		{% if remainder == 4 %}
-			</div>
-		{% endif %}
-
-		{% assign i = i | plus: 1 %}
-	{% endif %}
 {% endfor %}
-
-{% if remainder != 4 %}
-	</div>
-{% endif %}
+</div>
