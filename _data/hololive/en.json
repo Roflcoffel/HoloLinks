@@ -82,5 +82,33 @@
         "twitch_url": "",
         "image_path": "assets/images/fuwamoco.jpg",
         "gen": "3"
+    },
+    {
+        "name": "Elizabeth Rose Bloodflame",
+        "youtube_url": "holoen_erbloodflame",
+        "twitch_url": "",
+        "image_path": "assets/images/elizabeth_en.jpg",
+        "gen": "4"
+    },
+    {
+        "name": "Gigi Murin",
+        "youtube_url": "holoen_gigimurin",
+        "twitch_url": "",
+        "image_path": "assets/images/murin_en.jpg",
+        "gen": "4"
+    },
+    {
+        "name": "Cecilia Immergreen",
+        "youtube_url": "holoen_ceciliaimmergreen",
+        "twitch_url": "",
+        "image_path": "assets/images/cecilia_en.jpg",
+        "gen": "4"
+    },
+    {
+        "name": "Raora Panthera",
+        "youtube_url": "holoen_raorapanthera",
+        "twitch_url": "",
+        "image_path": "assets/images/raora_en.jpg",
+        "gen": "4"
     }
 ]
