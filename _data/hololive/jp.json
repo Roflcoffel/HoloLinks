@@ -48,6 +48,12 @@
         "gen": "1"
     },
     {
+        "name": "Spacer"
+    },
+    {
+        "name": "Spacer"
+    },
+    {
         "name": "Nakiri Ayame",
         "twitch_url": "",
         "image_path": "assets/images/nakiri_jp.jpg",
@@ -77,7 +83,6 @@
         "image_path": "assets/images/subaru_jp.jpg",
         "gen": "2"
     },
-         
     {
         "name": "Inugami Korone",
         "twitch_url": "",
@@ -101,6 +106,9 @@
         "twitch_url": "",
         "image_path": "assets/images/fubuki_new.jpg",
         "gen": "Gamer"
+    },
+    {
+        "name": "Spacer"
     },
     {
         "name": "Houshou Marine",
@@ -127,6 +135,9 @@
         "gen": "3"
     },
     {
+        "name": "Spacer"
+    },
+    {
         "name": "Tokoyami Towa",
         "twitch_url": "",
         "image_path": "assets/images/towa_jp.jpg",
@@ -151,6 +162,9 @@
         "gen": "4"
     },
     {
+        "name": "Spacer"
+    },
+    {
         "name": "Momosuzu Nene",
         "twitch_url": "",
         "image_path": "assets/images/nene_new.jpg",
@@ -173,6 +187,9 @@
         "twitch_url": "",
         "image_path": "assets/images/polka_jp.jpg",
         "gen": "5"
+    },
+    {
+        "name": "Spacer"
     },
     {
         "name": "Takane Lui",
@@ -200,9 +217,8 @@
     },
     {
         "name": "Kazama Iroha",
-        
         "twitch_url": "",
-        "image_path": "assets/images/iroha.png",
+        "image_path": "assets/images/iroha_jp.jpg",
         "gen": "6"
     },
     {
@@ -234,5 +250,35 @@
         "twitch_url": "",
         "image_path": "assets/images/kanade_jp.jpg",
         "gen": "7"
+    },
+    {
+        "name": "Kikirara Vivi",
+        "twitch_url": "",
+        "image_path": "assets/images/vivi_jp.jpg",
+        "gen": "8"
+    },
+    {
+        "name": "Rindo Chihaya",
+        "twitch_url": "",
+        "image_path": "assets/images/rindo_jp.jpg",
+        "gen": "8"
+    },
+    {
+        "name": "Mizumiya Su",
+        "twitch_url": "",
+        "image_path": "assets/images/su_jp.jpg",
+        "gen": "8"
+    },
+    {
+        "name": "Koganei Niko",
+        "twitch_url": "",
+        "image_path": "assets/images/niko_jp.jpg",
+        "gen": "8"
+    },
+    {
+        "name": "Isaki Riona",
+        "twitch_url": "",
+        "image_path": "assets/images/riona_jp.jpg",
+        "gen": "8"
     }
 ]

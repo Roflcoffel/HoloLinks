@@ -2,10 +2,14 @@
 {% for i in (1..rows) %}
 	<div class="row">
 		{% for holo in site.data.hololive["jp"] limit: 5 offset: continue %}
+			{% if holo.name != "Spacer" %}
 				<div class="col center">
 					<a href="https://www.youtube.com/@{{ holo.name | replace_first: " ", ""}}"><img src="{{ holo.image_path }}" class='rounded-circle' alt='Hololive'></a>
 					<a href="https://www.youtube.com/@{{ holo.name | replace_first: " ", ""}}"><h5 class='extra-margin'>{{ holo.name }}</h5></a>
 				</div>
+			{% else %}
+				<div class="col center"></div>
+			{% endif %}
 		{% endfor %}
 	</div>
 {% endfor %}

@@ -6,12 +6,6 @@
         "gen": "1"
     },
     {
-        "name": "IRyS",
-        "twitch_url": "",
-        "image_path": "assets/images/irys_new.jpg",
-        "gen": "2"
-    },
-    {
         "name": "Takanashi Kiara",
         "twitch_url": "",
         "image_path": "assets/images/kiara_new.jpg",
@@ -60,6 +54,12 @@
         "gen": "2"
     },
     {
+        "name": "IRyS",
+        "twitch_url": "",
+        "image_path": "assets/images/irys_new.jpg",
+        "gen": "2"
+    },
+    {
         "name": "Shiori Novella",
         "twitch_url": "",
         "image_path": "assets/images/novella.png",
@@ -82,6 +82,9 @@
         "twitch_url": "",
         "image_path": "assets/images/fuwamoco.jpg",
         "gen": "3"
+    },
+    {
+        "name": "Spacer"
     },
     {
         "name": "Elizabeth Rose Bloodflame",
@@ -110,5 +113,8 @@
         "twitch_url": "",
         "image_path": "assets/images/raora_en.jpg",
         "gen": "4"
+    },
+    {
+        "name": "Spacer"
     }
 ]

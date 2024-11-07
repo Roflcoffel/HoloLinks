@@ -18,6 +18,12 @@
         "gen": "1"
     },
     {
+        "name": "Spacer"
+    },
+    {
+        "name": "Spacer"
+    },
+    {
         "name": "Kureiji Ollie",
         "twitch_url": "",
         "image_path": "assets/images/kureiji_ollie_id.jpg",
@@ -36,6 +42,12 @@
         "gen": "2"
     },
     {
+        "name": "Spacer"
+    },
+    {
+        "name": "Spacer"
+    },
+    {
         "name": "Vestia Zeta",
         "twitch_url": "",
         "image_path": "assets/images/zeta.png",
@@ -52,5 +64,11 @@
         "twitch_url": "",
         "image_path": "assets/images/kobo.png",
         "gen": "3"
+    },
+    {
+        "name": "Spacer"
+    },
+    {
+        "name": "Spacer"
     }
 ]
