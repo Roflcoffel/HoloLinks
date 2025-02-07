@@ -19,15 +19,14 @@ need to rebuild the page after the script is run
 
 ## Build
 
-[Install](https://jekyllrb.com/docs/installation/) ruby and gem.
-install projects gem dependencies with bundler
+[Install](https://jekyllrb.com/docs/installation/)
+install the jekyll and bundler gem.
 
 	gem install jekyll bundler
-	bundle install
 
 jekyll should now be installed to build run:
 
-	bundle exec jekyll build
+	jekyll build
 
 ## Memo
 To get live status, try to extract it from hololive schedule site.
@@ -42,3 +41,6 @@ but currently cannot get it to work with a variable for the region,
 I think the problem is how the "offset: continue" works, it seems to
 treat "site.data.hololive[region]" as one namespace even if the
 region variable changes.
+
+removed the Gemfiles, and now only use the jekyll build command,
+after any update can never get bundler to install correctly.
