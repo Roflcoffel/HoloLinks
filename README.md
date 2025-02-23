@@ -30,10 +30,10 @@ jekyll should now be installed to build run:
 	bundle exec jekyll build
 
 ## Memo
-To get live status, try to extract it from hololive schedule site.
-
-moved REGloss members to the main page, but currently keeping the html file
-if more members join the dev_is branch.
+To get live status, try to extract it from hololive schedule site,
+or youtube with this class: class="yt-spec-avatar-shape__badge-text"
+the schedule site may be better, would just be a single get request
+we can then store in localstorage, which would expires in an hour.
 
 each region has its own json file, but also liquid file, these are
 currently identical only change is which json file to loop through.
