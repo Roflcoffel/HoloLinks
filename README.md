@@ -15,7 +15,7 @@ TODO:
 **get_yt_data.py** - a scripts that gets the 3 latest videos, uses the youtube api.
 need to rebuild the page after the script is run
 
-	bundle exec jekyll build
+	jekyll build
 
 ## Build
 
